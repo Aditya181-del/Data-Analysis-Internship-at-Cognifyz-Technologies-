@@ -13,5 +13,3 @@ This repository contains all the tasks I completed as part of the Data Analysis 
   - NLP (review analysis)
   - Dashboarding (Power BI)
 
-## 🗂️ Repository Structure
-
