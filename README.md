@@ -51,7 +51,7 @@ This repository contains all the tasks I completed as part of the **Data Analysi
 
 Interactive visualization created using Power BI to summarize key insights from the dataset.
 
-![Power BI Dashboard](Dashboard Image.png)
+![Power BI Dashboard](https://github.com/Aditya181-del/Data-Analysis-Internship-at-Cognifyz-Technologies-/blob/d12bd27905ea9ac63ce5845b878dcec9938ccc2b/Dashboard%20Image.png)
 
 **Dashboard Features:**
 - Average ratings, votes, and cost per city
