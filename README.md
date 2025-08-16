@@ -1,91 +1,70 @@
-# 📊 Data Analysis Internship at Cognifyz Technologies
+# 📊 Data Analysis Internship – Cognifyz Technologies (Apr–May 2025)
 
-This repository contains all the tasks I completed as part of the **Data Analysis Internship** at **Cognifyz Technologies**, focusing on restaurant-based data using real-world datasets.
-
----
-
-## 📚 Table of Contents
-- [📘 Internship Overview](#-internship-overview)
-- [📂 Project Structure](#-project-structure)
-- [📊 Power BI Dashboard](#-power-bi-dashboard)
-- [🛠️ Technologies Used](#️-technologies-used)
-- [📈 Key Takeaways](#-key-takeaways)
-- [📎 Connect With Me](#-connect-with-me)
+This repository contains the tasks and deliverables completed during my **Data Analysis Internship at Cognifyz Technologies**, focused on **restaurant industry datasets**. The internship involved applying **EDA, visualization, and BI techniques** to extract meaningful insights from real-world data.
 
 ---
 
-## 📘 Internship Overview
-
-- Applied various Data Analysis techniques on restaurant-related datasets.
-- Worked through 3 levels of tasks with increasing complexity.
-- Gained hands-on experience in:
-  - Exploratory Data Analysis (EDA)
-  - Data visualization with Python & Power BI
-  - Geo-mapping and NLP techniques
-  - Business insight generation for real-world applications
+## 🎯 Internship Highlights
+- Completed **3 levels of data analysis tasks** with increasing complexity.  
+- Performed **EDA, feature analysis, and visual storytelling** using Python.  
+- Built an **interactive Power BI dashboard** for business insights.  
+- Applied **NLP techniques** on restaurant reviews to extract keywords.  
+- Generated actionable insights on cuisines, pricing, online delivery, and customer preferences.  
 
 ---
 
 ## 📂 Project Structure
-
 ### 🔹 Level 1 – Exploratory Data Analysis
-- `Task 1:` Top 3 Cuisines and their percentage
-- `Task 2:` City-wise restaurant count & average ratings
-- `Task 3:` Price range distribution (visualized using bar charts)
-- `Task 4:` Online delivery availability vs average ratings
+- Top 3 cuisines and their percentage  
+- City-wise restaurant count & average ratings  
+- Price range distribution (bar charts)  
+- Online delivery availability vs ratings  
 
-### 🔹 Level 2 – Intermediate Insight Extraction
-- `Task 1:` Distribution of restaurant ratings and average votes
-- `Task 2:` Common cuisine combinations and correlation with ratings
-- `Task 3:` Geolocation mapping using latitude and longitude
-- `Task 4:` Identifying restaurant chains and analyzing their popularity
+### 🔹 Level 2 – Intermediate Analysis
+- Distribution of restaurant ratings and average votes  
+- Cuisine combinations vs ratings  
+- Geo-mapping using latitude & longitude  
+- Restaurant chain analysis  
 
 ### 🔹 Level 3 – Advanced Analytics
-- `Task 1:` NLP on text reviews to extract frequent keywords
-- `Task 2:` Votes vs Ratings correlation
-- `Task 3:` Price range vs Online delivery and Table booking relationship
+- **NLP on reviews** → frequent keywords extraction  
+- Correlation between votes & ratings  
+- Price range vs online delivery & table booking relationship  
 
 ---
 
 ## 📊 Power BI Dashboard
+Created an **interactive dashboard** to summarize restaurant insights:  
+- Average ratings, votes, and cost per city  
+- Most common cuisines & their rating patterns  
+- Online delivery and table booking trends  
+- Cuisine vs restaurant count visualizations  
 
-Interactive visualization created using Power BI to summarize key insights from the dataset.
 
-![Power BI Dashboard](https://github.com/Aditya181-del/Data-Analysis-Internship-at-Cognifyz-Technologies-/blob/d12bd27905ea9ac63ce5845b878dcec9938ccc2b/Dashboard%20Image.png)
-
-**Dashboard Features:**
-- Average ratings, votes, and cost per city
-- Most common cuisines and their rating trends
-- Online delivery and table booking comparison
-- Cuisine vs restaurant count bar charts
 
 ---
 
 ## 🛠️ Technologies Used
-
-- **Python** (Pandas, NumPy, Matplotlib, Seaborn, Plotly, Folium)
-- **Jupyter Notebook**
-- **Power BI** (Dashboarding & KPI Visualization)
-- **Git & GitHub** for version control
+- **Python:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, Folium  
+- **NLP:** Text analysis of customer reviews  
+- **Power BI:** Dashboarding & KPI visualization  
+- **Tools:** Jupyter Notebook, Git, GitHub  
 
 ---
 
 ## 📈 Key Takeaways
-
-- Developed a full cycle of data analysis, from cleaning to insight extraction.
-- Combined Python EDA with BI tools for storytelling through data.
-- Learned to analyze restaurant trends, customer preferences, and service patterns.
-- Improved communication by visualizing and documenting findings clearly.
+- Built end-to-end workflow: **data cleaning → analysis → visualization → business insights**.  
+- Combined **Python EDA + Power BI** for storytelling.  
+- Learned to identify **restaurant trends, customer preferences, and service patterns**.  
+- Strengthened **data communication & reporting** skills.  
 
 ---
 
 ## 📎 Connect With Me
-
-- 🔗 [LinkedIn – Aditya Tirakapadi](https://www.linkedin.com/in/aditya-tirakapadi-90a38b26b/)
-- 💼 [GitHub Profile](https://github.com/Aditya181-del)
-- 📧 Reach out for collaborations or feedback!
+- 💼 [GitHub Profile](https://github.com/Aditya181-del)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/aditya-tirakapadi-90a38b26b/)  
+- 📧 aditya.tirakapadi@gmail.com  
 
 ---
 
-⭐️ If you liked this project, feel free to **star** this repo and connect with me!
-
+⭐ If you found this project interesting, consider giving it a **star**!
