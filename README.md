@@ -40,7 +40,7 @@ Created an **interactive dashboard** to summarize restaurant insights:
 - Online delivery and table booking trends  
 - Cuisine vs restaurant count visualizations  
 
-
+<img width="2248" height="1266" alt="image" src="https://github.com/user-attachments/assets/e54ebb4b-5e97-4464-b62a-5b92bc45a028" />
 
 ---
 
